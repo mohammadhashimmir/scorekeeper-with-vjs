@@ -1,0 +1,58 @@
+.winner{
+  color:green;
+}
+.loser{
+  color:red;
+
+}
+nav{
+  font-family:'Pacifico', cursive;
+  font-size:1em;
+  border-bottom: 2px inset #adb5bd;
+  color: white;
+  width: 40%;
+  padding:1.2em;
+  margin-left:  calc(10%/6);
+} 
+Body{
+  background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4));
+  background-position:center;
+}
+
+#div1{
+  margin-top: 20px;
+  margin: auto, auto;
+  width: 400px;
+  background-color:rgba(0,0,0,0.4);
+  border:solid 2px slategray;
+   border-radius: 20px;
+   padding-left: 0px;
+   padding-right: 0px;
+   padding-bottom: 10px;
+}
+
+#heading{
+ 
+  text-align: center;
+   font-size:2em;
+    color: ivory;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-shadow:1px 1px 6px azure;
+}
+#scoreboard{
+  text-align: center;
+  color:azure;
+  
+}
+#lab{
+ color: azure;
+}
+button{
+  
+  margin-left: 35px;
+  margin-top: 20px;
+}
+select{
+  color: azure;
+  background-color:rgba(0,0,0,0.4) ;
+}
